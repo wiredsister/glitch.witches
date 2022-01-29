@@ -1,5 +1,13 @@
 ## 💻 glitch.witches 🧙‍♀️✨🧙🏿‍♀️🧙🏻‍♀️
 
+## TODO: 
+- [ ] `/bot` directory
+- [ ] onboarding bot & moderation bot
+- [ ] fixing up website
+- [ ] creating roles and vetting sandboxing
+- [ ] vetting onboarding
+- [ ] touch up rules document
+
 You can use the [editor on GitHub](https://github.com/wiredsister/glitch.witches/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
