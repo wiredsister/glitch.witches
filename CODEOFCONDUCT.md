@@ -53,3 +53,5 @@ Community Impact Guidelines were inspired by Mozilla's code of conduct enforceme
 Expanding scope to include external impact on community health inspired by Facebook's Open Source Code of Conduct and Mozilla's Community Participation Guidelines.
 
 For answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.
+
+## This document copied [this](https://opensource.microsoft.com/codeofconduct/) quite heavily.
