@@ -27,7 +27,7 @@ Examples of unacceptable behavior include:
 
 ## Enforcement Responsibilities
 
-Community moderators (@Weird Sister [Mod], 698646755063103614) are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+Community moderators (@Weird Sister [Mod], 698646755063103614 on Discord group) are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 
 Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
