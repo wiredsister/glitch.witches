@@ -1,4 +1,4 @@
-# 💻 glitch.witches 🧙‍♀️
+# 💻 glitch.witches 🧙‍♀️✨🧙🏿‍♀️🧙🏻‍♀️
 The Last Femmetopia on the Internet: Glitch.Witches()
 
 ## Useful extensions 💾 for VSCode: 
