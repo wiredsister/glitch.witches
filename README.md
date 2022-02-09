@@ -1,6 +1,8 @@
 # 💻 glitch.witches 🧙‍♀️✨🧙🏿‍♀️🧙🏻‍♀️
 The Last Femmetopia on the Internet: Glitch.Witches()
 
+[Project board](https://github.com/wiredsister/glitch.witches/projects/1?add_cards_query=is%3Aopen) for outstanding work before we go public.
+
 ## TODO: 
 - [ ] `/bot` directory
 - [ ] onboarding bot & moderation bot
