@@ -5,6 +5,26 @@ The Last Femmetopia on the Internet: Glitch.Witches()
 
 ## Rust Bots Structure 
 
+### Build
+
+Do:
+
+`cd librust/`
+
+`cargo build`
+
+### Run Executable:
+
+From the directory `librust/`:
+
+`cargo run`
+
+To call a specific bot to be built, try: 
+
+`cargo run rolecop`
+
+In this example we are running only the rolecop bot executable.
+
 ![Example Tree Filestructure for the Bots Directory](librust/documentation/Tree_structure.PNG)
 
 * Note: `target/` is generated data & ignored via `.gitignore`
