@@ -5,7 +5,7 @@ The Last Femmetopia on the Internet: Glitch.Witches()
 
 ## Rust Bots Structure 
 
-![Example Tree Filestructure for the Bots Directory](librust/Tree_structure.PNG)
+![Example Tree Filestructure for the Bots Directory](librust/documentation/Tree_structure.PNG)
 
 ## TODO: 
 - [x] `/bot` directory
