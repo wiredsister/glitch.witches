@@ -7,6 +7,8 @@ The Last Femmetopia on the Internet: Glitch.Witches()
 
 ![Example Tree Filestructure for the Bots Directory](librust/documentation/Tree_structure.PNG)
 
+* Note: `target/` is generated data & ignored via `.gitignore`
+
 ## TODO: 
 - [x] `/bot` directory
 - [x] Project Board
