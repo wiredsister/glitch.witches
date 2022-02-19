@@ -12,5 +12,4 @@ Cargo.lock
 # The google-chrome_stable_current_amd64 artifact we do as a bootstrap step
 google-chrome-stable_current_amd64.deb
 
-/target
 target/
