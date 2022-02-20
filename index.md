@@ -1,5 +1,5 @@
 ## 💻 glitch.witches 🧙‍♀️✨🧙🏿‍♀️🧙🏻‍♀️
-*The Last Femmetopia in Cyberspace*
+*A discord server dedicated to technology and intersectional feminism, supporting women and sexual minorities in tech at any stage in their career development.*
 
 
 ### Discord Community Website Coming soon! 
