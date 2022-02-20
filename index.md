@@ -1,23 +1,11 @@
 ## 💻 glitch.witches 🧙‍♀️✨🧙🏿‍♀️🧙🏻‍♀️
+*The Last Femmetopia in Cyberspace*
 
-## TODO: 
-- [ ] `/bot` directory
-- [ ] onboarding bot & moderation bot
-- [ ] fixing up website
-- [ ] creating roles and vetting sandboxing
-- [ ] vetting onboarding
-- [ ] touch up rules document
 
-You can use the [editor on GitHub](https://github.com/wiredsister/glitch.witches/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Discord Community Website Coming soon! 
+Our team is putting together the bots for our server & getting ready. Stay tuned.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Writing code in markdown & more:
-See [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Useful extensions 💾 for VSCode:
-   - Rust (rust-lang.rust)
-   - VSCode PDF (tomoki1207.pdf)
-   - Remote - WSL package (only if windows, ms-vscode-remote.remote-wsl)
-   - Docker (ms-azuretools.vscode-docker)
-
+### [Codebase](https://github.com/wiredsister/glitch.witches)
+### [Project Board](https://github.com/wiredsister/glitch.witches/projects/1)
+### Updates (Coming Soon)
+### Calendar (Coming Soon)
