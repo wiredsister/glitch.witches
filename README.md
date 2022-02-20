@@ -3,7 +3,15 @@ The Last Femmetopia on the Internet: Glitch.Witches()
 
 [Project board](https://github.com/wiredsister/glitch.witches/projects/1?add_cards_query=is%3Aopen) for outstanding work before we go public.
 
+## Currently debating 
+
+Should we use [Serenity](https://github.com/serenity-rs/serenity) or [discord.rs](https://github.com/SpaceManiac/discord-rs) project? Currently we include Serenity as a dependency only.
+
 ## Rust Bots Structure 
+
+### [Installing Rust](https://www.rust-lang.org/tools/install)
+
+### [Installing Cargo](https://doc.rust-lang.org/book/ch01-01-installation.html)
 
 ### Build
 
